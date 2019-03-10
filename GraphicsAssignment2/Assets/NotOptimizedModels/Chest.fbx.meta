@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: a65fbdfb214fb9241a4026f9a1464de3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chest_LOD0
+    100004: Chest_LOD1
+    100006: Cylinder.003
+    100008: Cylinder.004
+    100010: Cylinder.007
+    100012: Cylinder.008
+    100014: Cylinder.009
+    400000: //RootNode
+    400002: Chest_LOD0
+    400004: Chest_LOD1
+    400006: Cylinder.003
+    400008: Cylinder.004
+    400010: Cylinder.007
+    400012: Cylinder.008
+    400014: Cylinder.009
+    2100000: maderqa.003
+    2100002: metal.002
+    2100004: maderqa.002
+    2100006: maderqa
+    2100008: Material.004
+    2100010: metal.001
+    2100012: maderqa.001
+    2300000: Chest_LOD0
+    2300002: Chest_LOD1
+    2300004: Cylinder.003
+    2300006: Cylinder.004
+    2300008: Cylinder.007
+    2300010: Cylinder.008
+    2300012: Cylinder.009
+    3300000: Chest_LOD0
+    3300002: Chest_LOD1
+    3300004: Cylinder.003
+    3300006: Cylinder.004
+    3300008: Cylinder.007
+    3300010: Cylinder.008
+    3300012: Cylinder.009
+    4300000: Chest_LOD1
+    4300002: Cylinder.009
+    4300004: Cylinder.007
+    4300006: Chest_LOD0
+    4300008: Cylinder.008
+    4300010: Cylinder.004
+    4300012: Cylinder.003
+    7400000: Chest_LOD0|Cylinder.002|Cylinder.002|Cylinder.002Action|Cylinder.002|Cylin
+    7400002: Chest_LOD0|Cylinder.002|Cylinder.002|Cylinder.004Action|Cylinder.002|Cylin
+    7400004: Chest_LOD0|Cylinder.002|Cylinder.002|Cylinder.005Action.001|Cylinder.002|C
+    7400006: Chest_LOD0|Cylinder.002|Cylinder.002|Cylinder.005Action|Cylinder.002|Cylin
+    7400008: Chest_LOD0|Cylinder.003|Cylinder.003|Cylinder.002Action|Cylinder.003|Cylin
+    7400010: Chest_LOD0|Cylinder.003|Cylinder.003|Cylinder.003Action|Cylinder.003|Cylin
+    7400012: Chest_LOD0|Cylinder.003|Cylinder.003|Cylinder.004Action|Cylinder.003|Cylin
+    7400014: Chest_LOD0|Cylinder.003|Cylinder.003|Cylinder.005Action.001|Cylinder.003|C
+    7400016: Chest_LOD0|Cylinder.003|Cylinder.003|Cylinder.005Action|Cylinder.003|Cylin
+    7400018: Chest_LOD0|Cylinder.004|Cylinder.004|Cylinder.002Action|Cylinder.004|Cylin
+    7400020: Chest_LOD0|Cylinder.004|Cylinder.004|Cylinder.003Action|Cylinder.004|Cylin
+    7400022: Chest_LOD0|Cylinder.004|Cylinder.004|Cylinder.004Action|Cylinder.004|Cylin
+    7400024: Chest_LOD0|Cylinder.004|Cylinder.004|Cylinder.005Action.001|Cylinder.004|C
+    7400026: Chest_LOD0|Cylinder.004|Cylinder.004|Cylinder.005Action|Cylinder.004|Cylin
+    7400028: Chest_LOD0|Cylinder.005|Cylinder.005|Cylinder.002Action|Cylinder.005|Cylin
+    7400030: Chest_LOD0|Cylinder.005|Cylinder.005|Cylinder.003Action|Cylinder.005|Cylin
+    7400032: Chest_LOD0|Cylinder.005|Cylinder.005|Cylinder.004Action|Cylinder.005|Cylin
+    7400034: Chest_LOD0|Cylinder.005|Cylinder.005|Cylinder.005Action.001|Cylinder.005|C
+    7400036: Chest_LOD0|Cylinder.005|Cylinder.005|Cylinder.005Action|Cylinder.005|Cylin
+    7400038: Chest_LOD0|Cylinder.008|Cylinder.008|Cylinder.002Action|Cylinder.008|Cylin
+    7400040: Chest_LOD0|Cylinder.008|Cylinder.008|Cylinder.003Action|Cylinder.008|Cylin
+    7400042: Chest_LOD0|Cylinder.008|Cylinder.008|Cylinder.004Action|Cylinder.008|Cylin
+    7400044: Chest_LOD0|Cylinder.008|Cylinder.008|Cylinder.005Action.001|Cylinder.008|C
+    7400046: Chest_LOD0|Cylinder.008|Cylinder.008|Cylinder.005Action|Cylinder.008|Cylin
+    9500000: //RootNode
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
